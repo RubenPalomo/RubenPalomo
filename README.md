@@ -4,7 +4,7 @@
 - 💻 **Knowledge in:** C#, Javascript, Python, MySQL, Java / Android Studio, C
 - 🌱 I’m currently learning MongoDB.
 - 📫 How to reach me:
-  - **Contact:** ruben.palomof@gmail.com<br>
+  - **E-mail:** ruben.palomof@gmail.com<br>
   - **Phone:** 635028815<br>
   - **LinkedIn:** https://www.linkedin.com/in/ruben-palomo-fontan/
 
