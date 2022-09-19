@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning MongoDB.
 - 📫 How to reach me:
   - **E-mail:** ruben.palomof@gmail.com<br>
-  - **Phone:** 635028815<br>
+  - **Phone:** +34 635 02 88 15<br>
   - **LinkedIn:** https://www.linkedin.com/in/ruben-palomo-fontan/
 
 <!---
