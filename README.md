@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenPalomo&layout=compact&theme=radical)
 
 ## Formation🎓
-**Cross-platfom Applications Development**<br>2021-2023
+**Cross-platform Applications Development**<br>2021-2023
 
 ## Contact📪
 - **E-mail:** ruben.palomof@gmail.com<br>
