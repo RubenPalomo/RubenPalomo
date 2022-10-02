@@ -22,7 +22,7 @@
 - 📧**E-mail:** ruben.palomof@gmail.com<br>
 - 📞**Phone:** +34 635 02 88 15<br>
 - 🔗**LinkedIn:**<br>
-        <a href="https://www.linkedin.com/in/ruben-palomo-fontan/"> <img src="https://img.shields.io/badge/RubenPalomo%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+        &nbsp;&nbsp;<a href="https://www.linkedin.com/in/ruben-palomo-fontan/"> <img src="https://img.shields.io/badge/RubenPalomo%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <!---
 RubenPalomo/RubenPalomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
