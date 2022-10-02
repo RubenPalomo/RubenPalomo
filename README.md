@@ -15,8 +15,8 @@
 - **Java Programming** (210h)<br>Aspasia<br>2022
 
 ## Languages
-![EN](https://img.shields.io/badge/English-Intermediate-blue)<br>
-![ES](https://img.shields.io/badge/Spanish-Native-red)
+- ![EN](https://img.shields.io/badge/English-Intermediate-blue)<br>
+- ![ES](https://img.shields.io/badge/Spanish-Native-red)
 
 ## Contact📪
 - **E-mail:** ruben.palomof@gmail.com<br>
