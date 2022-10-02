@@ -7,7 +7,7 @@
 
 ## Stadistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=RubenPalomo&layout=compact&theme=radical)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenPalomo&layout=compact&theme=radical)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenPalomo&layout=compact&theme=radical)
 
 ## Contact
   - **E-mail:** ruben.palomof@gmail.com<br>
