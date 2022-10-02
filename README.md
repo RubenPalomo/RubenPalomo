@@ -23,7 +23,7 @@
     <!-- - Implementation of functionalities with voice recognition and management with AI. -->
 
 ## Languages🌐
-[EN](https://img.shields.io/badge/English-Intermediate-blue)![ES](https://img.shields.io/badge/Spanish-Native-red)
+![EN](https://img.shields.io/badge/English-Intermediate-blue)![ES](https://img.shields.io/badge/Spanish-Native-red)
 
 ## Contact📪
 - 📧**E-mail:** ruben.palomof@gmail.com<br>
