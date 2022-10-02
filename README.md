@@ -10,9 +10,9 @@
 
 ## Formation🎓
 - **Cross-platform Applications Development**<br>2021-2023
-- **Crash Course on Python**<br>Google (Coursera)<br>2022
-- **Python Course**<br>Open Bootcamp<br>2022
-- **Java Programming** (210h)<br>Aspasia<br>2022
+- **Crash Course on Python**🐍<br>Google (Coursera)<br>2022
+- **Python Course**🐍<br>Open Bootcamp<br>2022
+- **Java Programming**☕ (210h)<br>Aspasia<br>2022
 
 ## Languages
 - ![EN](https://img.shields.io/badge/English-Intermediate-blue)<br>
