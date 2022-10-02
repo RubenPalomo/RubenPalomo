@@ -16,15 +16,14 @@
 
 ## Experience💼
 - **Software developer** — VT-Lab (2022)
-    - Development of VR and AR applications with C#
+    - Development of VR and AR applications with C#.
     - Version Control with GitHub.
     - JSON file management.
     - Documentation creation with Markdown.
     <!-- - Implementation of functionalities with voice recognition and management with AI. -->
 
 ## Languages🌐
-- ![EN](https://img.shields.io/badge/English-Intermediate-blue)<br>
-- ![ES](https://img.shields.io/badge/Spanish-Native-red)
+[EN](https://img.shields.io/badge/English-Intermediate-blue)![ES](https://img.shields.io/badge/Spanish-Native-red)
 
 ## Contact📪
 - 📧**E-mail:** ruben.palomof@gmail.com<br>
