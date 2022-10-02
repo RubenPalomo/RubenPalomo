@@ -1,5 +1,4 @@
-# Rubén Palomo Fontán
-## Hi! I'm Rubén!👋
+# Hi! I'm Rubén!👋
 - 👨‍💻 This is @RubenPalomo. I am 28 and I am currently living in Arroyomolinos, Spain.
 - 💞️ I am a **software developer** looking for a job where I can grow professionally and learn.
 - 💻 **Knowledge in:**<br>
