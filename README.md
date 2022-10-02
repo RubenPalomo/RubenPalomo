@@ -15,12 +15,16 @@
 - **Java Programming**☕ (210h)<br>Aspasia<br>2022
 
 ## Experience💼
-- **Software developer** — VT-Lab (2022)
+- **Software developer** — VT-Lab (June 2022 - August 2022)
     - Development of VR and AR applications with C#.
     - Version Control with GitHub.
     - JSON file management.
     - Documentation creation with Markdown.
     <!-- - Implementation of functionalities with voice recognition and management with AI. -->
+- **42 Student** — 42Madrid (May 2022 - Now)
+    - 42 is a future-proof computer science training to educate the next generation of software engineers.
+    - Peer-to-peer learning method.
+    - The 42 program takes a project-based approach to progress and is designed to develop technical and people skills that match the expectations of the labor market.
 
 ## Languages🌐
 ![EN](https://img.shields.io/badge/English-Intermediate-blue)  &nbsp;  ![ES](https://img.shields.io/badge/Spanish-Native-red)
