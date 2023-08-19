@@ -1,5 +1,5 @@
 # Hi! I'm Rubén!👋
-- 👨‍💻 This is **Rubén Palomo**. I'm 29 and I'm currently living in Alcobendas, Spain.
+- 👨‍💻 This is **Rubén Palomo**. I'm 29 and I'm currently living in Arroyomolinos, Spain.
 - 💞️ I am a **software developer** looking for a job where I can grow professionally and learn. Since I discovered the world of programming I love coding, especially developing functions that improve the logic of the program.<br>
 - 🤓 My specialty is the **front-end**, creating components and functionalities for the user with React or React Native, although I consider myself a **full-stack**.<br><br>
 - 💻 **Knowledge in:**<br><br>
