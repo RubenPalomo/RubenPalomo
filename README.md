@@ -15,10 +15,10 @@
 - **Java Programming**☕ (210h)<br>Aspasia<br>2022
 
 ## Experience💼
-- **Software developer and QA** — Solera (October 2022 - Currently)
-    - Development of pages in React (front) and APIs in Spring Boot (back).
-    - Tests with Selenium and Selenide.
-    - Use and management of Databases with MongoDB.
+- **Software developer** — Solera (October 2022 - Currently)
+    - Development of pages in React and NextJs (front) and .NET (back).
+    - Tests with Selenium and Jest.
+    - Use and management of Databases in MongoDB, MySQL and Oracle.
 - **Software developer** — VT-Lab (June 2022 - August 2022)
     - Development of VR and AR applications with C#.
     - Version Control with GitHub.
